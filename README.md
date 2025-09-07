@@ -15,7 +15,7 @@ This project models a **pizza shop database** and explores queries for:
 - Aggregations with `GROUP BY` and `HAVING`
 - Comparative analysis (e.g., pizzas more expensive than *stagiony*)
 
-## Data Analysis with sql
+## Data Analysis with SQL
 - Which ingredients dominate in recipes
 - Which pizzas share the same origin country
 - Revenue potential of different pizzas
